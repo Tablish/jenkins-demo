@@ -13,6 +13,6 @@ public class TestController {
     @GetMapping("test")
     public String test() {
         System.out.println("hello world");
-        return "hello world + 1";
+        return "hello world + 1 + 1 + 1";
     }
 }
