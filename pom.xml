@@ -7,6 +7,8 @@
     <groupId>com.qyc.jenkins</groupId>
     <artifactId>hello-world</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
+
 
     <dependencies>
         <dependency>
